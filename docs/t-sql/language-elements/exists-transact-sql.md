@@ -1,5 +1,5 @@
 ---
-title: "СУЩЕСТВУЕТ (Transact-SQL) | Документы Microsoft"
+title: "EXISTS (Transact-SQL) | Документы Microsoft"
 ms.custom: 
 ms.date: 03/15/2017
 ms.prod: sql-non-specified
@@ -50,7 +50,7 @@ EXISTS ( subquery )
   
 ## <a name="arguments"></a>Аргументы  
  *вложенный запрос*  
- Ограниченная инструкция SELECT. Ключевое слово INTO не допускается. Дополнительные сведения см. в разделе о вложенных запросах в [ВЫБЕРИТЕ &#40; Transact-SQL &#41; ](../../t-sql/queries/select-transact-sql.md).  
+ Ограниченная инструкция SELECT. Ключевое слово INTO не допускается. Дополнительные сведения см. в разделе о вложенных запросах в [SELECT &#40; Transact-SQL &#41; ](../../t-sql/queries/select-transact-sql.md).  
   
 ## <a name="result-types"></a>Типы результата  
  **Логическое значение**  
